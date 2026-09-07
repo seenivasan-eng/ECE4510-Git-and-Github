@@ -1,0 +1,3 @@
+Name: Rick Sanchez
+GitHub username: ricksanchezj22
+Email: ricksanchez@j22.example
